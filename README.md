@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TRISTAN%20PATON&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Geopolitics%20%7C%20Semiconductors&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Data+Systems+%F0%9F%92%BB;Tracking+Chip+Geopolitics+%F0%9F%8C%8D;Analyzing+US-China+Tech+Relations+%F0%9F%94%AC)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Data+Analyst+%40+Chronograph+%7C+Geopolitics+Researcher;Data+Systems+%7C+API+Integration+%7C+Automation)](https://git.io/typing-svg)
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristanpaton/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tristanpaton0@gmail.com)
@@ -44,7 +43,7 @@ class Tristan:
 
 I work with data systems and API integrations at Chronograph, helping institutional investors monitor their private capital portfolios. Outside of work, I build tools to track and analyze semiconductor policy, export controls, and the evolving tech competition between the US and China.
 
-As a German-American technologist, I'm particularly interested in how technology reshapes democratic institutions and international power dynamics—from chip supply chains to digital sovereignty.
+As a German-American, I'm particularly interested in how technology reshapes democratic institutions and international power dynamics—from chip supply chains to digital sovereignty.
 
 ---
 
