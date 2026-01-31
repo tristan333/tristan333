@@ -8,7 +8,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristanpaton/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tristanpaton0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://news-aggregator-ru4n.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://tristanpaton.com)
 
 </div>
 
